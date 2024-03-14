@@ -17,30 +17,40 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+Jiayi Liao (Joy Liao) is a master student in [USTC](https://www.ustc.edu.cn/), advised by [Prof. Xiangnan He](https://hexiangnan.github.io/) and [Prof. Xiang Wang](https://xiangwang1223.github.io/).
+She received her BEng degree in 2023 from the Department of [Computer Science and Technology, University of Science and Technology of China (USTC)](https://cs.ustc.edu.cn/).
+Her research interests include Recommener System and Large Language Models.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.12*: &nbsp;🎉🎉 One paper is accepted by AAAI'24 (Main Tech)! Thank all Collaborators!
+- *2023.05*: &nbsp;🎉🎉 One tiny paper is accepted by ICLR'23 (Tiny Paper Track)! Thank all Collaborators!
+- *2022.12*: &nbsp;🎉🎉 We won the 2nd Place Winner of Knowledge Graph Completion Track of [OGB-LSC @ NeurIPS 2022](https://ogb.stanford.edu/neurips2022/)!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/LLaRA.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[LLaRA: Aligning Large Language Models with Sequential Recommenders](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Jiayi Liao**, Sihang Li, Zhengyi Yang, Jiancan Wu, Yancheng Yuan, Xiang Wang, Xiangnan He
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Code**](https://github.com/ljy0ustc/llara)
+- We propose hybrid item representation when converting sequential recommendation task into language modeling, and conduct curriculum prompt tuning to align traditional sequential recommendation models with LLMs. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/TIAC.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Text-to-Image Generation for Abstract Concepts
+
+**Jiayi Liao\***, Xu Chen\*, Qiang Fu, Lun Du, Xiangnan He, Xiang Wang, Shi Han, Dongmei Zhang
+
+</div>
+</div>
+
+- [Concept Understanding in Large Language Models: An Empirical Study](https://openreview.net/pdf?id=losgEaOWIL7), **Jiayi Liao**, Xu Chen, Lun Du, **ICLR 2023 Tiny Paper**
 
 # 🎖 Honors and Awards
 - *2023.06* Outstanding Graduate of Univerisity of Science and Technology of China. 
@@ -56,4 +66,4 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2022.07 - 2023.06*, Research intern mentored by Shi Han and Xu Chen at Data Knowledge Intelligence Group (DKI), Microsoft Research Asia (MSRA).
+- *2022.07 - 2023.06*, Research intern mentored by Shi Han and Xu Chen at [Data Knowledge Intelligence Group (DKI), Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/).

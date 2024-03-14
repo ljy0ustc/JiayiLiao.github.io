@@ -28,19 +28,18 @@ Her research interests include Recommener System and Large Language Models.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/LLaRA.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/LLaRA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[LLaRA: Aligning Large Language Models with Sequential Recommenders](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[LLaRA: Aligning Large Language Models with Sequential Recommenders](https://arxiv.org/pdf/2312.02445.pdf)
 
 **Jiayi Liao**, Sihang Li, Zhengyi Yang, Jiancan Wu, Yancheng Yuan, Xiang Wang, Xiangnan He
 
 [**Code**](https://github.com/ljy0ustc/llara)
-- We propose hybrid item representation when converting sequential recommendation task into language modeling, and conduct curriculum prompt tuning to align traditional sequential recommendation models with LLMs. 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/TIAC.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/TIAC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Text-to-Image Generation for Abstract Concepts

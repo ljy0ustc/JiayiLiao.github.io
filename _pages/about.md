@@ -60,9 +60,5 @@ Text-to-Image Generation for Abstract Concepts
 - *2019.09 - 2023.06*, B.S., Dept. of Computer Science and Technology, University of Science and Technology of China. 
 - *2016.09 - 2019.06*, Chengdu No.7 High School. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
 # 💻 Internships
 - *2022.07 - 2023.06*, Research intern mentored by Shi Han and Xu Chen at [Data Knowledge Intelligence Group (DKI), Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/).

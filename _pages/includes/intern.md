@@ -1,0 +1,2 @@
+# 💻 Internships
+- *2022.07 - 2023.06*, Research intern mentored by Shi Han and Xu Chen at [Data Knowledge Intelligence Group (DKI), Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/).

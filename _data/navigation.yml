@@ -1,19 +1,19 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "/JiayiLiao.github.io/#about-me"
 
   - title: "News"
-    url: "/#-news"
+    url: "/JiayiLiao.github.io/#-news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/JiayiLiao.github.io/#-publications"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/JiayiLiao.github.io/#-honors-and-awards"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/JiayiLiao.github.io/#-educations"
 
   - title: "Internships"
-    url: "/#-internships"
+    url: "/JiayiLiao.github.io/#-internships"
